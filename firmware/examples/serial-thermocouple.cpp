@@ -15,7 +15,7 @@
  ****************************************************/
 
 #include "math.h"
-#include "Adafruit_MAX31855.h"
+#include "Adafruit_MAX31855/Adafruit_MAX31855.h"
 
 int thermoCLK = A3;
 int thermoCS = A2;
