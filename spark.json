@@ -1,0 +1,7 @@
+{
+  "name": "Adafruit_MAX31855",
+  "author": "Adafruit, Technobly",
+  "license": "BSD",
+  "version": "0.0.1",
+  "description": "Adafruit MAX31885 Library ported to Spark Core."
+}
